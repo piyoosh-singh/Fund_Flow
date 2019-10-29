@@ -315,6 +315,7 @@ http://dm02.dishactive.tech/stb/pysh/dpystb.m3u8?c=First_India_News&q=1200
 http://dm02.dishactive.tech/stb/pysh/dpystb.m3u8?c=A1_TV_Rajasthan&q=1200
 #EXTINF:0 group-title="Hindi News",Aaj Tak HD
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25"#EXTINF:0 group-title="Hindi News",Aaj Tak
+#EXTINF:0 group-title="Hindi News",Aaj Tak
 http://dm02.dishactive.tech/stb/pysh/dpystb.m3u8?c=Aaj_Tak&q=JSRV10_4000
 #EXTINF:0 group-title="Hindi News",ABP Ganga
 http://dm02.dishactive.tech/stb/pysh/dpystb.m3u8?c=ABP_Ganga&q=JSRV2_4000
