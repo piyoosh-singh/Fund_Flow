@@ -179,6 +179,8 @@ http://sg01.dishactive.tech:8080/stb/pysh/dpystb.m3u8?c=News_9&q=JSRV9_4000
 http://sg01.dishactive.tech:8080/stb/pysh/dpystb.m3u8?c=News_X&q=JSRV8_4000
 #EXTINF:0 group-title="News",Republic TV
 http://sg01.dishactive.tech:8080/stb/pysh/dpystb.m3u8?c=Republic_TV&q=JSRV5_4000
+#EXTINF:0 group-title="News",Republic TV HD
+https://www.youtube.com/watch?v=TwQ6aQqsea0
 #EXTINF:0 group-title="News",Times Now HD
 http://sg01.dishactive.tech:8080/stb/pysh/dpystb.m3u8?c=Times_Now_HD&q=JSRV6_8000
 #EXTINF:0 group-title="News",Times NOW
